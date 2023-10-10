@@ -1,1 +1,1 @@
-Hello I am new to the Git.
+Hello I am new to the VS-Code.
